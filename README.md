@@ -1,4 +1,4 @@
-This is React E-commerce website example project. You can select category, adding products to cart, subscribing offers, inspect products, login page and editting products on cart. 
+This is React E-commerce website example project (Node modules not included in this respository). You can select category, adding products to cart, subscribing offers, inspect products, login page and editting products on cart. 
 
 Screenshots of sections from the project
 ![OutputSS1](https://github.com/The1nfectious/Example-Ecommerce/assets/101246401/862a0feb-bdee-4eb0-a5cf-19d074ef04ff)
